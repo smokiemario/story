@@ -1,4 +1,4 @@
-"The Magical Necklace
+"""The Magical Necklace
 
 You put on the necklace and it
 glows. The world turns black,
@@ -8,3 +8,4 @@ and blue sky. The neckless stops
 glowing and you wonder where to go
 next. Mountains block north,south and
 west, so you can only go east.
+"""

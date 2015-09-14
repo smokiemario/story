@@ -1,1 +1,0 @@
-"""Gem beetle battle"""
