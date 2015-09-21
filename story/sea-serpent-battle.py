@@ -1,12 +1,4 @@
-"""Inside the Sea Temple
+"""Sea serpent battle
 
-The sea temple looks as
-old as a sunken pirate
-ship, so who knows what
-kind of monsters you might
-find here. Suddenly, you
-here a snake slithering on
-the ground. When you least 
-expect it, the sea serpent
-jumps attacks! What do you do?
+blah
 """
