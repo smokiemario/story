@@ -5,6 +5,10 @@ through the grass. You go to investigate.
 Suddenly, A wild leopard attacks! What do you do?
 """
 
-def action(s):
-    print("""(Would do a battle)""")
-    s.pause()
+class Leopard():
+    speed = 100
+    attack = 90
+    defence = 45
+    spdef = 55
+    spatk = 60
+    hp = 73
